@@ -6,3 +6,18 @@ body {
 p {
     color: black;
 }
+
+img {
+    height: 400px
+}
+
+#sniper-pug {
+    width: 600px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
